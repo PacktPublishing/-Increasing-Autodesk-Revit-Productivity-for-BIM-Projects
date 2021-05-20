@@ -4,7 +4,7 @@
 
 This is the code repository for [Increasing Autodesk Revit Productivity for BIM Projects](https://www.packtpub.com/product/increasing-autodesk-revit-productivity-for-bim-projects/9781800566804), published by Packt.
 
-**A practical guide to using Revit workflows for improving productivity and efficiency in BIM projects**
+**A practical guide to using Revit workflows to improve productivity and efficiency in BIM projects**
 
 ## What is this book about?
 Revit software helps architects, BIM coordinators, and BIM managers to create BIM models and analyze data to improve design and construction. Building Information Modeling (BIM) has promoted a transformation in the engineering and construction industries where information is at the core of a methodology that improves productivity, providing several benefits in comparison to the traditional 2D CAD process. This book takes a hands-on approach to implementing this new methodology effectively.
